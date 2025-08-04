@@ -13,7 +13,7 @@ MODEL_ID = "ibm/granite-3-3-8b-instruct"
 st.set_page_config(page_title="🐼 Greeshma Synapse AI", layout="centered")
 
 st.markdown("<h1 style='text-align: center;'>🐼 Greeshma Synapse AI</h1>", unsafe_allow_html=True)
-st.markdown("<p style='text-align: center;'>Generate AI-powered proposals for agritech ideas</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center;'>Generate intelligent proposals for any startup or innovation idea</p>", unsafe_allow_html=True)
 
 # User input
 prompt = st.text_area("💡 Enter your startup idea or concept below")
