@@ -1,0 +1,22 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Streamlit cache
+.streamlit/
+*.png
+*.jpg
+*.jpeg
+
+# OS generated
+.DS_Store
+Thumbs.db
